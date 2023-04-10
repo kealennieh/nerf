@@ -20,6 +20,10 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 8. [CVPR] FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization [paper](https://arxiv.org/abs/2303.07418) [project](https://jiawei-yang.github.io/FreeNeRF/) [code](https://github.com/Jiawei-Yang/FreeNeRF)
 
+9. [CVPR] NeRF-RPN: A general framework for object detection in NeRFs [paper](https://arxiv.org/abs/2211.11646) [code](https://github.com/lyclyc52/NeRF_RPN)
+
+10. [CVPR] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points [paper](https://arxiv.org/abs/2212.04247) [project](https://chengwei-zheng.github.io/EditableNeRF/)
+
 
 ### 2022
 1. [CVPR] Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields [paper](https://arxiv.org/abs/2111.12077) [project](https://jonbarron.info/mipnerf360/) [code jax](https://github.com/google-research/multinerf)
@@ -32,7 +36,7 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 
 ### 2021
-1. [arVix] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [paper](https://arxiv.org/abs/2103.13415) [project](https://jonbarron.info/mipnerf/) [code jax](https://github.com/google/mipnerf)
+1. [arXiv] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [paper](https://arxiv.org/abs/2103.13415) [project](https://jonbarron.info/mipnerf/) [code jax](https://github.com/google/mipnerf)
 
 
 
@@ -51,7 +55,7 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 3. [Insight] NeRF at CVPR 2022 [link](https://dellaert.github.io/NeRF22/)
 
-4. [Method] 记录对nerf各种算法、应用、软件等等的学习过程 [link]https://github.com/yangkang2021/nerf-learn
+4. [Method] 记录对nerf各种算法、应用、软件等等的学习过程 [link](https://github.com/yangkang2021/nerf-learn)
 
 
 ## 4.websites
