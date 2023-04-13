@@ -24,6 +24,9 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 10. [CVPR] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points [paper](https://arxiv.org/abs/2212.04247) [project](https://chengwei-zheng.github.io/EditableNeRF/)
 
+11. [arXiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions [paper](https://arxiv.org/abs/2303.12789) [project](https://instruct-nerf2nerf.github.io/) [code](https://github.com/ayaanzhaque/instruct-nerf2nerf)
+
+
 
 ### 2022
 1. [CVPR] Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields [paper](https://arxiv.org/abs/2111.12077) [project](https://jonbarron.info/mipnerf360/) [code jax](https://github.com/google-research/multinerf)
@@ -48,22 +51,21 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 
 
-## 3.blogs
+## 3.tools
+1. [Framework] nerfstudio: A collaboration friendly studio for NeRFs [link](https://github.com/nerfstudio-project/nerfstudio)
+   
+2. [Framework] nerf-factory: An awesome PyTorch NeRF library [link](https://github.com/kakaobrain/nerf-factory)
+
+
+## 4.websites
 1. [Insight] NeRF Explosion 2020 [link](https://dellaert.github.io/NeRF/)
 
 2. [Insight] NeRF at ICCV 2021 [link](https://dellaert.github.io/NeRF21/)
 
 3. [Insight] NeRF at CVPR 2022 [link](https://dellaert.github.io/NeRF22/)
 
-4. [Method] 记录对nerf各种算法、应用、软件等等的学习过程 [link](https://github.com/yangkang2021/nerf-learn)
+4. [Insight] NeRF at NeurIPS 2022 [link](https://markboss.me/post/nerf_at_neurips22/)
 
+5. [Insight] NeRF at ECCV 2022 [link](https://markboss.me/post/nerf_at_eccv22/)
 
-## 4.websites
-1. [Framework] nerfstudio: A collaboration friendly studio for NeRFs [link](https://github.com/nerfstudio-project/nerfstudio)
-   
-2. [Framework] nerf-factory: An awesome PyTorch NeRF library [link](https://github.com/kakaobrain/nerf-factory)
-
-
-## 5.others
-
-
+6. [Method] 记录对nerf各种算法、应用、软件等等的学习过程 [link](https://github.com/yangkang2021/nerf-learn)
