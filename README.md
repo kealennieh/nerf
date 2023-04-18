@@ -26,6 +26,10 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 11. [arXiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions [paper](https://arxiv.org/abs/2303.12789) [project](https://instruct-nerf2nerf.github.io/) [code](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 
+12. [arXiv] Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields [paper](https://arxiv.org/abs/2304.06706) [project](https://jonbarron.info/zipnerf/)
+
+13. [arXiv] LERF: Language Embedded Radiance Fields [paper](https://arxiv.org/abs/2303.09553) [project](https://www.lerf.io/)
+
 
 
 ### 2022
