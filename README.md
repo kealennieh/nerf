@@ -10,7 +10,7 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 3. [CVPR] 3D-Aware Multi-Class Image-to-Image Translation with NeRFs [paper](https://arxiv.org/abs/2303.15012) [code](https://github.com/sen-mao/3di2i-translation)
 
-4. [CVPR] F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories [paper](https://arxiv.org/abs/2303.15951) [project](https://totoro97.github.io/projects/f2-nerf/) [code coming soon](https://github.com/totoro97/f2-nerf)
+4. [CVPR] F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories [paper](https://arxiv.org/abs/2303.15951) [project](https://totoro97.github.io/projects/f2-nerf/) [code](https://github.com/totoro97/f2-nerf)
 
 5. [CVPR] Progressively Optimized Local Radiance Fields for Robust View Synthesis [paper](https://arxiv.org/abs/2303.13791) [project](https://localrf.github.io/) [code coming soon](https://github.com/facebookresearch/localrf)
 
