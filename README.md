@@ -30,7 +30,7 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 11. [arXiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions [paper](https://arxiv.org/abs/2303.12789) [project](https://instruct-nerf2nerf.github.io/) [code](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 
-12. [arXiv] Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields [paper](https://arxiv.org/abs/2304.06706) [project](https://jonbarron.info/zipnerf/)
+12. [arXiv] Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields [paper](https://arxiv.org/abs/2304.06706) [project](https://jonbarron.info/zipnerf/) [unofficial](https://github.com/SuLvXiangXin/zipnerf-pytorch)
 
 13. [arXiv] LERF: Language Embedded Radiance Fields [paper](https://arxiv.org/abs/2303.09553) [project](https://www.lerf.io/)
 
@@ -49,6 +49,7 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 ### 2021
 1. [arXiv] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [paper](https://arxiv.org/abs/2103.13415) [project](https://jonbarron.info/mipnerf/) [code jax](https://github.com/google/mipnerf)
 
+2. [arXiv] NeRF--: Neural Radiance Fields Without Known Camera Parameters [paper](https://arxiv.org/abs/2102.07064) [project](https://nerfmm.active.vision/) [code](https://github.com/ActiveVisionLab/nerfmm)
 
 
 ### 2020
@@ -78,6 +79,7 @@ Record some useful information about neural-radiance-field(NeRF), including pape
 
 6. [Method] 记录对nerf各种算法、应用、软件等等的学习过程 [link](https://github.com/yangkang2021/nerf-learn)
 
+7. [List] nerf_and_beyond_docs [link](https://github.com/yangjiheng/nerf_and_beyond_docs)
 
 ## 4.datasets
 
